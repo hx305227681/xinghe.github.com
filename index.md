@@ -4,8 +4,8 @@
 ###Shanghai Jiao Tong University(SJTU)
 ###Emai:hexing_hx@126.com
 ###Research interests
--Big Data Analysis
--Digital Twin
+-Digital Twin of Energy Systems
+-Big Data Analytics
 ###Work Experience
 -Assistant Research Fellow,Shanghai Jiao Tong University, 09/2019-
 -Postdoc Researcher, Shanghai Jiao Tong University, 06/2017 —  08/2019
