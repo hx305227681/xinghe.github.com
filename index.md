@@ -6,6 +6,19 @@
 ###Research interests
 -Digital Twin of Energy Systems
 -Big Data Analytics
+###Short Biography
+Dr. Xing He (M’19) received the Ph.D. degree from the Shanghai Jiao Tong University, Shanghai, China, in 2017. His main research interests include digital twin of energy system, and spatial-temporal data analytics in smart grid.
+Dr. He start the relevant research since 2013, and now he is a research associate of Key Laboratory of Control of Power Transmission and Conversion, Ministry of Education of China, and also a research associate of the Research Center for Big Data & AI Engineering Technology in Shanghai Jiao Tong University. 
+In the past five years, he published 30 SCI/EI papers, 3 international book chapters, and 3 patents. He is the reviewers of IEEE Journals, e.g. IEEE Transaction on Smart Grid, IEEE Transaction on Power Systems, and is also awarded distinguished reviewer of Power System Technology (EI Journal, Top 3 in the Power System domain in China) twice (2017, 2019). 
+In 2020, Dr. HE is the convener and chairman of the 3rd Youth Forum on Energy Innovation (online, with an audience of 10000+), and a Reporter in Panel Session of IEEE PES General Meeting (online). He is also the Guest Editors for special issue on ``Digital twin Technology and its application in Power systems’’ in Power System Technology.
+He is now in charge of a National Natural Science Foundation of China (Youth Fund).
+###Selected Books
+[B1] Xing He, Qian Ai. Basic of Big Data Analysis and Digital Twins of Power Systems. Shang Hai Jiao Tong University Press, 300,000 words (in Chinese), to be published.
+[B2] Qian Ai, Xing He. Digital Twins of Integrated Energy Systems and their Digitization-Informationization-Intellectualization. China Science publishing & Media Ltd. (CSPM), 300,000 words (in Chinese), to be published.
+###Selected Invited Chapters
+[C1] Qiu, Robert, Xing He(*), Lei Chu, Qian Ai. "Big Data Analysis of Power Grid from Random Matrix Theory." Smarter Energy: from Smart Metering to the Smart Grid, Chapter 13, IET, (2016): 381-425.
+[C2] Qiu, Robert, Lei Chu, Xing He, Zenan Ling, and Haichun Liu. "Spatiotemporal Big Data Analysis for Smart Grids Based on Random Matrix Theory." Transportation and Power Grid in Smart Cities: Communication Networks and Services, Chapter 23, Wiley, (2018): 591-633.
+[C3] Qiu, Robert, Xing He(*), Lei Chu, Xin Shi. "Spatio-Temporal Analysis for Medium Data of Smart Grids Based on RMT." Data Analytics for Power Systems, Topic III, Cambridge U. Press, to be published, 36 pages.
 ###Work Experience
 -Assistant Research Fellow,Shanghai Jiao Tong University, 09/2019-
 -Postdoc Researcher, Shanghai Jiao Tong University, 06/2017 —  08/2019
